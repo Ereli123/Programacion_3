@@ -1,7 +1,0 @@
-C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\PROGRAMACION 3\Viviana Ruiz\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
-C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\PROGRAMACION 3\Viviana Ruiz\Clase 2\Clase 2\bin\Debug\Clase 2.exe
-C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\PROGRAMACION 3\Viviana Ruiz\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
-C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\PROGRAMACION 3\Viviana Ruiz\Clase 2\Clase 2\obj\Debug\Clase 2.csproj.AssemblyReference.cache
-C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\PROGRAMACION 3\Viviana Ruiz\Clase 2\Clase 2\obj\Debug\Clase 2.csproj.CoreCompileInputs.cache
-C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\PROGRAMACION 3\Viviana Ruiz\Clase 2\Clase 2\obj\Debug\Clase 2.exe
-C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\PROGRAMACION 3\Viviana Ruiz\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
