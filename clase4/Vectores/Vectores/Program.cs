@@ -10,15 +10,53 @@ namespace Vectores
     {
         static void Main(string[] args)
         {
-
+            /*
             //Vector de números
-            int[] numeros = new int[] { 1, 2, 3, 4, 5, };
+            int[] Numeros = new int[] { 1, 2, 3, 4, 5, };
 
             //Vector de letras
-            char[] letras = new char[] { 'a', 'b', 'c', 'd', 'e' };
+            char[] Letras = new char[] { 'a', 'b', 'c', 'd', 'e' };
 
             //Vectores de palabras
-            string[] palabras = 
+            string[] Palabras = new string[] { "Hola", "Mundo", "es", "genial" };
+
+            //Generar un vector vacío
+            int[] vacío = new int[10];
+            Console.WriteLine("\nVector vacío:");
+            */
+
+            cambioDeDatos();
+
+
+
+        }
+
+        static void ImprimirVector(int[] vector)
+        {
+            string vectorString = "";
+            foreach (int elemento in vector) {
+            vectorString = vectorString + elemento + " ";
+            }
+            Console.WriteLine(vectorString);
+        }
+
+        static void cambioDeDatos()
+        {
+            int[] numeros = { 1, 2, 3, 4, 5, 6, 7, 8, };
+            ImprimirVector(numeros);
+
+            numeros[2] = 100;
+            ImprimirVector(numeros);
+        }
+
+        static void IntercambioDePosicion(int[] cambio)
+        {
+            int temp = cambio[3];
+            cambio[3] = cambio[2];
+            cambio[2] = temp;
+            Console.WriteLine(temp);
+            
+
         }
     }
 }
