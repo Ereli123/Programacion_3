@@ -1,0 +1,7 @@
+C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\Programacion_3\Vectores\Vectores\bin\Debug\Vectores.exe.config
+C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\Programacion_3\Vectores\Vectores\bin\Debug\Vectores.exe
+C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\Programacion_3\Vectores\Vectores\bin\Debug\Vectores.pdb
+C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\Programacion_3\Vectores\Vectores\obj\Debug\Vectores.csproj.AssemblyReference.cache
+C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\Programacion_3\Vectores\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\Programacion_3\Vectores\Vectores\obj\Debug\Vectores.exe
+C:\Users\Ereli Viviana Ruiz\Documents\UNIVERSIDAD\Programacion_3\Vectores\Vectores\obj\Debug\Vectores.pdb
