@@ -7,14 +7,15 @@ using System.Threading.Tasks;
 
 namespace Vectores
 {
-    internal class Program
+    public class Program
     {
         class Vectores
         {
             static void Main(string[] args)
             {
-
                 int[] vector = { 2, 3, 6, 7, 10, 13, 26 };
+                int nuevoElemento = 10;
+                int posicion = 1;
                 MultiplosTres(vector);
             }
 
@@ -72,10 +73,6 @@ namespace Vectores
                 Console.WriteLine(contador);
             }
 
-            static int[] recorrerNumero(int[] vector, int nuevoNumero, int posicion)
-            {
-                return;
-            }
         }
     }
 }
